@@ -1,0 +1,11 @@
+{
+	"initParam": {
+		"installAt": "Philadelphia, PA",
+		"adminEmail": "abc@tmp.com",
+		"staticPath": "/content/static"
+	},
+	"taglib": {
+		"taglibUri": "xyz.tld",
+		"taglibLoc": "/WEB-INF/tlds/xyz.tld"
+	}
+}
